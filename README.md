@@ -9,7 +9,7 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 Explanation on how bubble sort works can be well illustrated by below gif image:
 
-![Bubble sort explanation](/images/bubble-sort-example-300px.gif)
+![Bubble sort explanation](./images/bubble-sort-example-300px.gif)
 
 ## About the Project
 
